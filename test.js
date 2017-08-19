@@ -1,8 +1,4 @@
-class aa{
-    constructor(name){
-        this.name=name;
-    }
-}
+var readlineSync = require('readline-sync');
 
-let das=new aa();
-console.log(das);
+var userName = readlineSync.question('中文 ');
+console.log('hi '+userName);
