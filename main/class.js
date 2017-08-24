@@ -8,6 +8,7 @@ class Class {
 
     // 计算总分平均数
     calAverageOfSums() {
+        this.summary.average=0;
         for (let student of this.students) {
             this.summary.average += student.sum;
         }

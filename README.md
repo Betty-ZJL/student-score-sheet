@@ -1,10 +1,8 @@
+> 代码在 **main** 中
+
+> 测试及结果在 **test** 中
+
 # 练习：学生成绩单（命令行版）
-
-## 练习目标
-
-- 绘制任务分解图
-- 列任务列表
-- JS基础编程练习
 
 ## 练习要求
 
@@ -69,29 +67,4 @@
 ```
 
 如果我们输入的学号不存在，该学号在计算时就会被忽略。
-
-要求：
-
-- 绘制任务分解图
-- 列出任务列表（包含预估完成时间）
-- 使用[readline-sync](https://www.npmjs.com/package/readline-sync)打印和接收用户输入
-
-### 输出结果
-
-将个人练习代码库地址提交到教练指定的位置。
-
-代码库需包含：
-
-1. 任务分解图的tasking.md文件
-2. 说明如何运行和测试代码的README.md文件
-3. 运行结果截图的result.png文件
-
-## 如何开始：
-
-1. `git clone https://github.com/tws-practice/student-score-sheet.git`
-2. 打开并修改项目文件，完成练习。
-
-## 学习资源
-
-- 任务分解：https://www.zybuluo.com/jtong/note/504192
 
